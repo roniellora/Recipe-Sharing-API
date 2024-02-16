@@ -21,7 +21,7 @@ const recipesData = [
         "6. Add back the cooked mung beans, simmer it for a while, then add the spinach (or your preferred leaves from the possible options).",
         "7. Lasly enjoy!",
       ],
-      tag: ["Dinner"],
+      tag: ["Lunch"],
     },
     {
       id: 2,
@@ -76,7 +76,7 @@ const recipesData = [
         "5. Transfer to a serving plate. Serve with your favorite drink.",
         "6. Lasly enjoy!",
       ],
-      tag: ["Dinner"],
+      tag: ["Lunch"],
     },
     {
       id: 4,
@@ -102,9 +102,10 @@ const recipesData = [
     },
     {
       id: 5,
-      name: "Beef Kare-Kare",
+      name: "Kare-Kare",
       ingredients: [
-        "Beef tripe, cleaned and cut into bite-sized pieces",
+        "1 kilo oxtail, cut into 2-inch lengths",
+        "1/2 kilo beef tripe, cleaned and cut into bite-sized pieces",
         "3 tablespoons cooking oil",
         "4 cloves garlic, minced",
         "1 onion, chopped",
@@ -119,7 +120,7 @@ const recipesData = [
       ],
       steps: [
         "1. In a large pot, heat the cooking oil over medium heat. Sauté the garlic and onion until fragrant.",
-        "2. Add the Beef tripe. Cook until browned.",
+        "2. Add the oxtail and beef tripe. Cook until browned.",
         "3. Pour in the water and bring to a boil. Simmer until the meat is tender, about 2-3 hours.",
         "4. Add the peanut butter and ground toasted rice. Stir until well combined.",
         "5. Add the string beans, eggplant, and banana blossom. Cook until the vegetables are tender.",
